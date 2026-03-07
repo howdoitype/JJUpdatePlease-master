@@ -1,4 +1,5 @@
 date,region,state_po,class,special,runoff,offyear,candidate,party,writein,voteshare,candidatevotes,totalvotes,version
+11/1/1958,Alabama,AL,3,TRUE,FALSE,TRUE,Hill,democratic,FALSE,1.00,,,JJCooley
 11/1/1960,Alabama,AL,3,TRUE,FALSE,TRUE,Hill,democratic,FALSE,1.00,,,JJCooley
 11/1/1960,Alaska,AK,3,TRUE,FALSE,TRUE,Gruening,democratic,FALSE,1.00,,,JJCooley
 11/1/1960,Arizona,AZ,1,FALSE,FALSE,TRUE,Goldwater,republican,FALSE,1.00,,,JJCooley
